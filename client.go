@@ -1,4 +1,4 @@
-package k8s_cli
+package k8scli
 
 import (
 	"net/http"
